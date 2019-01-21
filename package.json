@@ -1,0 +1,14 @@
+{
+  "name": "myappaks",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
